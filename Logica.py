@@ -1,3 +1,5 @@
+###Un pequeño programa simulado de un cajero automatico.###
+
 def Cliente(Nombre):
     if Nombre == "Colocas el nombre deseado":
         return True
